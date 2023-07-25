@@ -1,0 +1,10 @@
+* cl-statsd
+
+Statsd client in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/deadtrickster/cl-statsd.git   |
+| commit  | 7790c95  |
+| systems | cl-statsd |
+|---------+-------------------------------------------|
+
